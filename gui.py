@@ -67,7 +67,7 @@ class TaskGUI:
             value="Hard"
         ).pack(side=tk.LEFT)
 
-          frame_button = tk.Frame(root)
+        frame_button = tk.Frame(root)
         frame_button.pack(pady=10)
 
         tk.Button(
